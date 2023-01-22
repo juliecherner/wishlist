@@ -1,4 +1,4 @@
-# Wishlist - Advanced one
+# Wishlist - Make the wishlist per specific person easily
 
 ## App for people who do not like spontaneous present and prefer planned purchases.
 
